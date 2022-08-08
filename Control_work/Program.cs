@@ -91,3 +91,4 @@ void textTask() //метод оформления вывода решения з
     Console.WriteLine(new string('_', Console.WindowWidth) + "\n");
     Console.ResetColor();
 }
+
